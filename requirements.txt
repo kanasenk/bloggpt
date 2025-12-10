@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+openai==0.27.0
+requests
+httpx
+tiktoken
